@@ -1,7 +1,0 @@
-build:
-  pre:
-    - npm install
-
-  # This is where the actual build command goes. In your case, it's npm run dev.
-  main:
-    - npm run dev
