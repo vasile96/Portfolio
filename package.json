@@ -15,7 +15,6 @@
     "npm": "8.19.3"
   },
   "dependencies": {
-    "bootstrap": "^5.2.2",
     "concurrently": "^8.2.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
